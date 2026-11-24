@@ -1,0 +1,1 @@
+export const config = {apiKey:'AIzaSyDcI4BmGiI33whP7NzUE9oCGDgCFkbqpN0',authDomain:'whats-your-price.firebaseapp.com',databaseURL:'https://whats-your-price-default-rtdb.firebaseio.com',projectId:'whats-your-price',appId:'1:125446138349:web:1ef9ee5a78ec30b1d15fe4'};
